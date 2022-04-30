@@ -1,4 +1,5 @@
 #include <gb/gb.h>
+#include <gb/cgb.h>
 #include "LaroldsJubilantJunkyard.h"
 
 void main(void)
